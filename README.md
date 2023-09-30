@@ -14,5 +14,6 @@ Our goal is to use your advanced SQL skills to analyze the data and provide valu
 - MS Word(For Documentation)
 
 # 📑 Dataset Used
+The provided dataset contained several csv files with large amount of data which was imported and prepared in SQL
 - Case Study 1:https://drive.google.com/file/d/10FrutxnoMkFA8sZXLWw34Rpgwfa_rCyy/view?usp=sharing
 - Case Study 2:https://drive.google.com/drive/folders/1puMggGJPO9ybYcRkUPluA6Q6ZiGo7OIE?usp=sharing
